@@ -1,0 +1,19 @@
+.jumbotron {
+    text-align: center;
+    background-color: black !important;
+    font-family: sans-serif;   
+}
+
+.jumbotron h1 {
+        font-weight: bold;
+        font-size: 50px;
+        color: white;        
+}
+
+.container {
+    text-align: center;
+}
+
+.row {
+    padding: 2em;
+}
